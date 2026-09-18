@@ -17,5 +17,6 @@ The showcase includes a product walkthrough and architecture overview. Applicati
 | [TargetResume](https://github.com/kennybenny-foo/targetresume-showcase) | AI-assisted resume tailoring, document export, and job tracking. | Python, Flask, MongoDB, OpenAI API |
 | [Side Street](https://github.com/kennybenny-foo/sideStreet) | Discover and share local hidden gems, browse places, and save favorites. | Dart, Flutter, Firebase Auth, Firestore, Firebase Storage |
 | [RISE of the Bear](https://github.com/kennybenny-foo/RiseOfTheBear) | First-person game inside a claw machine, featuring enemy AI, pickups, hazards, and a complete win/loss loop. | C#, Unity 6, NavMesh |
+| [TileMania](https://github.com/kennybenny-foo/TileMania_) | Three-level 2D platformer with wall sliding, ranged enemies, health, and scoring. Source showcase; external art/audio omitted. | C#, Unity 6, 2D Physics, Cinemachine |
 
 Start with **TargetResume** for full-stack web development, **Side Street** for mobile application workflows, and **RISE of the Bear** for gameplay systems.
